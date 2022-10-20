@@ -30,7 +30,13 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  
+</div>
 
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/cesarhenrq/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  
 </div>
 
 ##
