@@ -1,4 +1,4 @@
-### Olá! Eu sou César Henrique.
+### Olá! Eu sou César Henrique. Desenvolvedor Fullstack. 
 <div>
 
   <a href="https://github.com/cesarhenrq">
