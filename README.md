@@ -1,5 +1,5 @@
 ### Olá! Eu sou César Henrique. Desenvolvedor Fullstack. 
-<div style="display: flex; flex-direction: column; justify-content: center">
+<div style="display: flex; flex-direction: column; align-itens: center">
 
   <a href="https://github.com/cesarhenrq">
 
