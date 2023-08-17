@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarhenrq" alt="cesarhenrq" /></a> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **nest.js**
 
 - 📝 I regularly write articles on [https://medium.com/@cesaarhvb](https://medium.com/@cesaarhvb)
 
-- 💬 Ask me about **javascript, css, html, react and typescript**
+- 💬 Ask me about **javascript, css, html, react, typescript and node.js**
 
 - 📫 How to reach me **cesaarhvb@gmail.com**
 
